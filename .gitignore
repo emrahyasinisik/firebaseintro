@@ -57,3 +57,17 @@ app.*.map.json
 ios/**/*.cer
 ios/**/*.p12
 ios/**/Profile/*.mobileprovision
+# Geçici dosyalar
+secrets.json
+config.ini
+.env
+
+# VS Code geçici dosyaları
+.vscode/
+
+# IntelliJ geçici dosyaları
+.idea/
+
+# PyCharm geçici dosyaları
+*.iml
+.idea/
