@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">497628810314</string>
+    <string name="google_api_key" translatable="false">AIzaSyBtm17Jgux-ALAypEGlMRMEEvHu0cvq8vo</string>
+    <string name="google_app_id" translatable="false">1:497628810314:android:0982ad8eac2b33736feab3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBtm17Jgux-ALAypEGlMRMEEvHu0cvq8vo</string>
+    <string name="google_storage_bucket" translatable="false">tobeto-2a-49e31.appspot.com</string>
+    <string name="project_id" translatable="false">tobeto-2a-49e31</string>
+</resources>

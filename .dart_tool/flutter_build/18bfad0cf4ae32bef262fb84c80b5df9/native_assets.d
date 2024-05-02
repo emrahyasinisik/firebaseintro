@@ -1,0 +1,1 @@
+ C:\\Users\\SSemr\\OneDrive\\Belgeler\\GitHub\\firebaseintro\\.dart_tool\\flutter_build\\18bfad0cf4ae32bef262fb84c80b5df9\\native_assets.yaml: 
