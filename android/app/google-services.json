@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "497628810314",
+    "project_id": "tobeto-2a-49e31",
+    "storage_bucket": "tobeto-2a-49e31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497628810314:android:0982ad8eac2b33736feab3",
+        "android_client_info": {
+          "package_name": "com.example.firebaseintro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtm17Jgux-ALAypEGlMRMEEvHu0cvq8vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
